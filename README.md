@@ -1,15 +1,14 @@
 # Track-1-baseline
 
-#############################################################################################
-#                                                                                           # 
-#                                    DiCOVA 2021 Challenge                                  #
-#                            Diagnosing COVID-19 Using Acoustics                            #
-#                               Track-1 Baseline system software			                #
-#                                http://dicova2021.github.io/                               #
-#                            (A special session at Interspeech 2021)                        # 
-#                               https://www.interspeech2021.org/                            #
-#                                                                                           #  
-#############################################################################################
+
+##                                                                                           
+##                                    DiCOVA 2021 Challenge                                  
+##                            Diagnosing COVID-19 Using Acoustics                           
+##                               Track-1 Baseline system software			    
+##                                http://dicova2021.github.io/                               
+##                            (A special session at Interspeech 2021)                         
+##                               https://www.interspeech2021.org/                            
+##                                                                                           
 
 ---------
 1. About:
